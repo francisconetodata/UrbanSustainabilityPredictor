@@ -294,10 +294,7 @@ st.sidebar.info("""
 - Visualizações interativas
 """)
 
-st.sidebar.markdown("### 🔗 Links Úteis")
-st.sidebar.markdown("- [GitHub](https://github.com/seu-usuario/urban-sustainability-predictor)")
-st.sidebar.markdown("- [Documentação](https://docs.projeto.com)")
-st.sidebar.markdown("- [Paper Original](https://paper.link)")
+
 
 # Footer
 st.markdown("---")
