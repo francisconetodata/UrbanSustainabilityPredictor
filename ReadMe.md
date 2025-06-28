@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange.svg)
-![Status](https://img.shields.io/badge/Status-Completo-green.svg)
+![Status](https://img.shields.io/badge/Status-Incompleto-green.svg)
 
 ### 📋 Descrição do Projeto
 
